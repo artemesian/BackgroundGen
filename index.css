@@ -2,13 +2,17 @@ body{
 	margin: 0px auto;
 
 }
-h1{
+h1,p{
 	display: flex;
 	justify-content: center;
 	color:rgba(0,0,0,0.5);
 	font-size: 5em;
 	font-family: 'Roboto Mono';
     margin-bottom: 0px;
+}
+p{
+	font-family: arial;
+	font-size:2em;
 }
 h2,h3{
 	display: flex;
